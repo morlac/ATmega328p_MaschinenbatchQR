@@ -42,7 +42,7 @@ Arduino:
 
 checkout the above mentioned library in the Arduino libraries folder
 
-```
+```c++
 #define DISPLAY_RST   8
 #define DISPLAY_CS    10
 #define DISPLAY_DC    9
